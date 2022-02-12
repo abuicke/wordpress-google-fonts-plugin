@@ -24,4 +24,3 @@ function wpb_add_google_fonts() {
 }
 
 add_action( 'wp_enqueue_scripts', 'wpb_add_google_fonts' );
-?>
